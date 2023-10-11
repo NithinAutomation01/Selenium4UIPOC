@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T13:36:41 IST" name="Default suite" finished-at="2023-10-05T13:37:28 IST" duration-ms="46665">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T13:36:41 IST" name="Default test" finished-at="2023-10-05T13:37:28 IST" duration-ms="46665">
+      <class name="com.test.BrowserInvoke">
+        <test-method is-config="true" signature="extentconfig()[pri:0, instance:com.test.BrowserInvoke@7e3f95fe]" started-at="2023-10-05T13:36:41 IST" name="extentconfig" finished-at="2023-10-05T13:36:50 IST" duration-ms="8755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentconfig -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.BrowserInvoke@7e3f95fe]" started-at="2023-10-05T13:36:50 IST" name="beforeMethod" finished-at="2023-10-05T13:36:58 IST" duration-ms="7783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validate()[pri:0, instance:com.test.BrowserInvoke@7e3f95fe]" started-at="2023-10-05T13:36:58 IST" name="validate" finished-at="2023-10-05T13:37:27 IST" duration-ms="29248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.BrowserInvoke@7e3f95fe]" started-at="2023-10-05T13:37:27 IST" name="afterMethod" finished-at="2023-10-05T13:37:27 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.test.BrowserInvoke@7e3f95fe]" started-at="2023-10-05T13:37:27 IST" name="teardown" finished-at="2023-10-05T13:37:28 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.BrowserInvoke -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
